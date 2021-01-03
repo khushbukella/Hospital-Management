@@ -39,18 +39,21 @@
  ![Invoice](images/invoice.png)
  
 
-#HOW TO RUN THIS PROJECT
-- install requirements.txt
-- open terminal and set the project folder path 
-- Execute following commands 
-  - py manage.py makemigrations
-  - py manage.py migrate
-  - py manage.py runserver
-- http://127.0.0.1:8000/ enter this URL in PC-Browser
+## HOW TO RUN THIS PROJECT
+
+1. install requirements.txt
+2. open terminal and set the project folder path 
+3. Execute following commands 
+```
+    py manage.py makemigrations
+    py manage.py migrate
+    py manage.py runserver
+```
+4. http://127.0.0.1:8000/ enter this URL in PC-Browser
  
  
  
  ## Author 
- For any doubts please contact Khushbu Kella
+ For any doubts please contact [Khushbu Kella](mailto:khushbukellan@gmail.com)
 
  
